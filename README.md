@@ -1,4 +1,4 @@
-![Master](https://github.com/nfet/assertj-modules/workflows/Java%20CI%20with%20Maven%20Wrapper/badge.svg?branch=master)
+![Master Build](https://github.com/nfet/assertj-modules/workflows/Master%20Build/badge.svg)
 
 # assertj-modules
 
