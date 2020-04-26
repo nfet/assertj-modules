@@ -1,6 +1,4 @@
 ![Java CI with Maven Wrapper](https://github.com/nfet/assertj-modules/workflows/Java%20CI%20with%20Maven%20Wrapper/badge.svg)
-![Java CI with Maven Wrapper](https://github.com/nfet/assertj-modules/workflows/Java%20CI%20with%20Maven%20Wrapper/badge.svg?event=status)
-![Java CI with Maven Wrapper](https://github.com/nfet/assertj-modules/workflows/Java%20CI%20with%20Maven%20Wrapper/badge.svg?event=check_run)
 
 # assertj-modules
 
