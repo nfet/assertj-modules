@@ -1,12 +1,18 @@
-# Description
+![Java CI with Maven Wrapper](https://github.com/nfet/assertj-modules/workflows/Java%20CI%20with%20Maven%20Wrapper/badge.svg)
 
-AssertJ Modules
+# assertj-modules
 
-# Contribution Guidelines
+AssertJ Modules are [AssertJ](https://assertj.github.io/doc/) fluent 
+assertion extension libraries that can be utilized by your project for 
+speed of development and testing. 
 
-<tbd>
-  
-# Build Pipeline
+## Modules
 
-<tbd>
-  
+- assertj-modules-jackson-objectmapper
+
+### Documents
+
+- [Contribution Guidelines](docs/CONTRIBUTION.md)
+- [Development Notes](docs/DEVELOP.md)
+- [Release Process](docs/RELEASE.md)
+
