@@ -1,0 +1,41 @@
+<svg version="1.1" baseProfile="full" width="1058" height="314" viewbox="0 0 1058 314" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:2;stroke-linejoin:round;stroke-linecap:round">
+  <title >Components</title>
+  <desc >#font: Calibri
+#fontSize: 12
+#spacing: 50
+#padding: 15
+#fillArrows: false
+#arrowSize: .8
+#lineWidth: 2
+#edgeMargin: 8
+#leading: 1
+#stroke: #33322E
+#direction: right
+#acyclicer: greedy
+#zoom: .8
+#title: Components
+
+[assertj-modules]-&gt;[assertj-modules-dependencies]
+[assertj-modules-jackson-objectmapper]-&gt;[assertj-modules]
+[assertj-modules-jakarta-bean-validation]-&gt;[assertj-modules]
+[assertj-modules-annotation]-&gt;[assertj-modules]
+</desc>
+  <path d="M676 157 L701 157 L726 157 L726 157 " style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <path d="M712.7 162.3 L719.3 157 L712.7 151.7 L726 157 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+  <path d="M422.5 49 L462 49 L549.4 128 L549.4 128 " style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <path d="M535.9 123 L544.5 123.5 L543.1 115.1 L549.4 128 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+  <path d="M437 157 L462 157 L487 157 L487 157 " style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <path d="M473.7 162.3 L480.3 157 L473.7 151.7 L487 157 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+  <path d="M375 265 L462 265 L549.4 186 L549.4 186 " style="stroke:#33322E;fill:none;stroke-dasharray:none;"></path>
+  <path d="M543.1 198.9 L544.5 190.5 L535.9 191 L549.4 186 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+  <rect x="495" y="136" height="42" width="173" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+  <text x="581.5" y="163" style="fill: #33322E;text-anchor: middle;">assertj-modules</text>
+  <rect x="734" y="136" height="42" width="296" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+  <text x="882" y="163" style="fill: #33322E;text-anchor: middle;">assertj-modules-dependencies</text>
+  <rect x="43" y="28" height="42" width="372" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+  <text x="229" y="55" style="fill: #33322E;text-anchor: middle;">assertj-modules-jackson-objectmapper</text>
+  <rect x="28" y="136" height="42" width="401" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+  <text x="228.5" y="163" style="fill: #33322E;text-anchor: middle;">assertj-modules-jakarta-bean-validation</text>
+  <rect x="90" y="244" height="42" width="277" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+  <text x="228.5" y="271" style="fill: #33322E;text-anchor: middle;">assertj-modules-annotation</text>
+</svg>

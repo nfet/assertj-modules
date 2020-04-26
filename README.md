@@ -11,6 +11,10 @@ speed of development and testing.
 
 - assertj-modules-jackson-objectmapper
 
+### Project Structure
+
+![Structure](docs/assets/project-structure.svg)
+
 ### Documents
 
 - [Contribution Guidelines](docs/CONTRIBUTION.md)
