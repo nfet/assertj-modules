@@ -5,8 +5,12 @@ name: Master Build
 
 on:
   push:
+    paths-ignore:
+      - 'docs/**'
     branches: [ master ]
   pull_request:
+    paths-ignore:
+      - 'docs/**'
     branches: [ master ]
 
 jobs:
