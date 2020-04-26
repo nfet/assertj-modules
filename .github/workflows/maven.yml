@@ -5,13 +5,15 @@ name: Master Build
 
 on:
   push:
-    paths-ignore:
-      - 'docs/**'
     branches: [ master ]
+    paths-ignore:
+      - '**.md'
+      - 'docs/**'
   pull_request:
-    paths-ignore:
-      - 'docs/**'
     branches: [ master ]
+    paths-ignore:
+      - '**.md'
+      - 'docs/**'
 
 jobs:
   build:
