@@ -1,4 +1,5 @@
-![Master Build](https://github.com/nfet/assertj-modules/workflows/Master%20Build/badge.svg)
+![Master Build](https://github.com/nfet/assertj-modules/workflows/Master%20Build/badge.svg) &nbsp;
+![Branch Builds](https://github.com/nfet/assertj-modules/workflows/Branch%20Builds/badge.svg)
 
 # assertj-modules
 
