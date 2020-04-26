@@ -29,3 +29,5 @@ git push origin :refs/tags/<tag-name>
 ```shell script
 git push --delete origin <tag-name> 
 ```
+
+.
