@@ -17,3 +17,5 @@ is expect to released manually to github.
 ./mvnw deploy
 ```
 
+Once the [assert-module-dependency/pom.xml](pom.xml) is released, it can be referenced
+by the [assertj-modules-parent/pom.xml](../pom.xml).
