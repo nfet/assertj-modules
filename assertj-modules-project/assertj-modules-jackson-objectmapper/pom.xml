@@ -6,11 +6,11 @@
     <parent>
         <groupId>com.lagnada.assertion.modules.assertj</groupId>
         <artifactId>assertj-modules-parent</artifactId>
-        <version>0.0.0</version>
+        <version>0.0.1-SNAPSHOT</version>
         <relativePath>../../</relativePath>
     </parent>
 
-    <version>0.0.0</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <artifactId>assertj-modules-jackson-objectmapper</artifactId>
     <name>assertj-modules-jackson-objectmapper</name>
